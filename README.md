@@ -4,7 +4,7 @@ GardenByte is a cozy React/Vite web toy that turns a first name, name meaning, o
 
 ## Live Demo
 
-https://gardenbyte.vercel.app/
+[https://gardenbyte.vercel.app/](https://vercel.com/siamakennas-projects/garden.byte/F4Uq6aNezVFbr2WKWbUw9ettybsL)
 
 ## What Makes It Different
 
